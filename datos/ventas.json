@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion_usuario": "0102030405",
+        "codigo_producto": "P001",
+        "fecha": "2026-09-27 21:11:26",
+        "cantidad": 1,
+        "total": 3.5
+    },
+    {
+        "identificacion_usuario": "1102030405",
+        "codigo_producto": "P002",
+        "fecha": "2026-09-27 21:14:23",
+        "cantidad": 1,
+        "total": 5.0
+    }
+]

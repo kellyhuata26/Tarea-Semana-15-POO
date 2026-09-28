@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Arroz con pollo",
+        "precio": 3.5,
+        "stock": 19
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Maito de pescado",
+        "precio": 5.0,
+        "stock": 14
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Chontacuro asado",
+        "precio": 4.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Jugo natural",
+        "precio": 1.5,
+        "stock": 25
+    }
+]
