@@ -1,4 +1,4 @@
-# Restaurante App - Semana 15
+# Restaurante App - Semana 16
 
 ## Descripción del proyecto
 
@@ -12,7 +12,7 @@ La principal operación implementada en esta semana es el registro de una venta,
 
 ---
 
-## Objetivo de la Semana 15
+## Objetivo de la Semana 16
 
 El objetivo principal de esta semana es comprender cómo una acción realizada por el usuario en una interfaz gráfica puede generar una respuesta dentro del sistema.
 
@@ -72,43 +72,27 @@ Se incorporan recursos visuales mediante la carpeta assets/.
 
 El proyecto mantiene una separación de responsabilidades entre los diferentes componentes del sistema.
 
-restaurante_app/
-│
-├── datos/
-│   ├── productos.json
-│   ├── usuarios.json
-│   └── ventas.json
-│
-├── modelos/
-│   ├── __init__.py
-│   ├── producto.py
-│   ├── usuario.py
-│   └── venta.py
-│
-├── servicios/
-│   ├── __init__.py
-│   ├── archivo_servicio.py
-│   └── restaurante_servicio.py
-│
-├── ui/
-│   ├── __init__.py
-│   ├── login_view.py
-│   └── main_view.py
-│
-├── assets/
-│   ├── iconos/
-│   │   ├── productos.png
-│   │   ├── usuarios.png
-│   │   └── ventas.png
-│   │
-│   └── logo/
-│       ├── restaurante_logo.png
-│       └── restaurante_logo.svg
-│
-├── main.py
+├── restaurante_app/
+│   ├── datos/
+│   │   ├── productos.json
+│   │   ├── usuarios.json
+│   │   └── ventas.json
+│   ├── modelos/
+│   │   ├── __init__.py
+│   │   ├── producto.py
+│   │   ├── usuario.py
+│   │   └── venta.py
+│   ├── servicios/
+│   │   ├── __init__.py
+│   │   ├── archivo_servicio.py
+│   │   └── restaurante_servicio.py
+│   ├── ui/
+│   │   ├── __init__.py
+│   │   ├── login_view.py
+│   │   └── main_view.py
+│   ├── assets/              
+│   └── main.py
 └── README.md
-   Descripción de los componentes
-   datos/
 
 Contiene los archivos JSON utilizados para almacenar la información del sistema.
 
