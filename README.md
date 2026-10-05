@@ -44,7 +44,7 @@ Persistencia en ventas.json
 Actualización de la interfaz
    ↓
 Respuesta visual al usuario
- Funcionalidades incorporadas en la Semana 15
+ Funcionalidades incorporadas en la Semana 16
 
 En esta versión se incorporaron las siguientes funcionalidades:
 
@@ -195,7 +195,7 @@ Usuarios
 Productos
 Ventas
 
-También contiene la operación principal trabajada en la Semana 15:
+También contiene la operación principal trabajada en la Semana 16:
 
 Registrar venta.
 
@@ -440,7 +440,7 @@ Kelly Daniela  Tanguila Huatatoca
 
 Asignatura: Programación Orientada a Objetos
 
-Semana: 15
+Semana: 16
 
 Proyecto: Restaurante App
 
