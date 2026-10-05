@@ -1,20 +1,24 @@
+
 [
     {
         "identificacion": "0102030405",
         "nombre": "Kelly Daniela",
         "usuario": "kelly",
-        "password": "1234"
+        "password": "1234",
+        "rol": "Administrador"
     },
     {
         "identificacion": "1102030405",
         "nombre": "Juan Perez",
         "usuario": "juan",
-        "password": "1234"
+        "password": "1234",
+        "rol": "Empleado"
     },
     {
         "identificacion": "1603040506",
         "nombre": "Maria Lopez",
         "usuario": "maria",
-        "password": "1234"
+        "password": "1234",
+        "rol": "Cliente"
     }
 ]
